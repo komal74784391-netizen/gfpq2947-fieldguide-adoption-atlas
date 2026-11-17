@@ -1,0 +1,4 @@
+name: denoising-diffusion-pytorch
+url: https://github.com/lucidrains/denoising-diffusion-pytorch
+stars: 10725
+note: Reference PyTorch reproduction of the denoising diffusion objective.
