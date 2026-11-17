@@ -1,3 +1,2 @@
 name	owner	url	stars	note
-Placeholder Project One	example-org	https://github.com/example-org/project-one	1200	placeholder row — replace when a project is adopted
-Placeholder Project Two	example-org	https://github.com/example-org/project-two	800	placeholder row — replace when a project is adopted
+denoising-diffusion-pytorch	lucidrains	https://github.com/lucidrains/denoising-diffusion-pytorch	10725	Reference PyTorch reproduction of the denoising diffusion objective.
