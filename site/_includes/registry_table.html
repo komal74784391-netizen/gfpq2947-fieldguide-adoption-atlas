@@ -1,0 +1,15 @@
+<table class="registry">
+  <thead>
+    <tr><th>Project</th><th>Repository</th><th>Stars</th><th>Note</th></tr>
+  </thead>
+  <tbody>
+  {% for tool in site.data.adopted_tools %}
+    <tr>
+      <td>{{ tool.name }}</td>
+      <td><a href="{{ tool.url }}">{{ tool.url }}</a></td>
+      <td>{{ tool.stars }}</td>
+      <td>{{ tool.note }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>

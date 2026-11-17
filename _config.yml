@@ -1,0 +1,7 @@
+title: Field Guide
+description: Upstream projects our research group builds on
+baseurl: /fieldguide
+markdown: kramdown
+exclude:
+  - tools
+  - README.md
